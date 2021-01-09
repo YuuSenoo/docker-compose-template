@@ -68,3 +68,7 @@ SSHport=22000                  #SSH接続のport
 ```
 Docker-compose up --build
 ```
+
+### 参考資料
+[Docker Hub](https://hub.docker.com/r/rosyuku/ubuntu-rdp)
+[Ubuntu-desktopタイプのDockerコンテナを比較してみた](https://own-search-and-study.xyz/2020/05/02/docker-container-ubuntu-desktop-rdp/)
