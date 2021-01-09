@@ -1,1 +1,5 @@
 .DS_Store
+
+# docker-ubuntu-desktop-rdp
+docker-ubuntu-desktop-rdp/.env
+docker-ubuntu-desktop-rdp/workdir/
